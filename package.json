@@ -26,7 +26,7 @@
     "release": "standard-version"
   },
   "dependencies": {
-    "async": "^2.1.5",
+    "async": "^3.2.2",
     "clone-deep": "^0.3.0",
     "loader-utils": "^1.0.1",
     "lodash.tail": "^4.1.1",
